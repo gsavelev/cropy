@@ -16,7 +16,7 @@ python cro.py --source '/Users/user/Pictures/' --destination '/Users/user/Pictur
 ```
 
 ## Authors
-* [Gleb Savelev](https://github.com/nardo-leo)
+* [Gleb Savelev](https://github.com/gsavelev)
 
 See also the [list of contributors](https://github.com/nardo-leo/cropy/graphs/contributors) who participated in this project.
 
